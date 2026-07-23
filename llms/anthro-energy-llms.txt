@@ -1,0 +1,26 @@
+# Anthro Energy
+
+> Anthro Energy is a battery materials company in Alameda, California developing next-generation
+> electrolyte technology. Its Proteus platform is a drop-in electrolyte that increases energy density,
+> improves safety, and adds mechanical integrity to lithium-ion and next-gen battery cells without
+> changes to existing gigafactory manufacturing infrastructure. Anthro Energy is a portfolio company
+> of Union Square Ventures and Ultratech Capital. It is a physical-materials company and does not
+> publish a public API, developer portal, SDKs, or machine-readable API artifacts.
+
+## Company
+
+- [Home](https://www.anthroenergy.com/): Company overview and Proteus electrolyte platform.
+- [Technology](https://www.anthroenergy.com/technology/): The Proteus drop-in electrolyte platform and process.
+- [News & Updates](https://www.anthroenergy.com/news-updates/): Company news and announcements.
+- [Careers](https://www.anthroenergy.com/careers/): Open opportunities.
+- [Contact](https://www.anthroenergy.com/contact/): info@anthroenergy.com
+
+## Legal
+
+- [Privacy Policy](https://www.anthroenergy.com/privacy/)
+- [Terms of Use](https://www.anthroenergy.com/terms-of-use/)
+
+## Notes
+
+- No public API, OpenAPI/AsyncAPI spec, SDK, CLI, MCP server, or /.well-known/ discovery files
+  were found on anthroenergy.com as of this profile.

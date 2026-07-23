@@ -1,13 +1,31 @@
 aid: anthro-energy
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/anthro-energy.png
 name: Anthro Energy
-description: Anthro Energy is a company surfaced as a portfolio company of union-square-ventures and added
-  to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment
-  pipeline.
+description: Anthro Energy is a battery materials company based in Alameda, California, developing
+  next-generation electrolyte technology for lithium-ion and next-gen battery cells. Its flagship
+  Proteus platform is a drop-in electrolyte that increases energy density, improves safety, and adds
+  mechanical integrity without requiring changes to existing gigafactory manufacturing infrastructure,
+  and is compatible with a wide range of anodes, separators, and cathodes. Spun out of research at
+  Stanford, Anthro Energy is a portfolio company of Union Square Ventures and Ultratech Capital. It is
+  a physical-materials company with no public API surface; this profile is maintained in the API
+  Evangelist network for company and market discovery.
 url: https://raw.githubusercontent.com/api-evangelist/anthro-energy/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
 - union-square-ventures
+- ultratech-capital
 x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
@@ -15,6 +33,12 @@ created: '2026-07-17'
 modified: '2026-07-17'
 tags:
 - Company
+- Energy
+- Batteries
+- Electrolyte
+- Materials Science
+- Clean Energy
+- Manufacturing
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -24,3 +48,18 @@ maintainers:
 common:
 - type: Website
   url: https://www.anthroenergy.com
+- type: Blog
+  url: https://www.anthroenergy.com/news-updates/
+- type: PrivacyPolicy
+  url: https://www.anthroenergy.com/privacy/
+- type: TermsOfService
+  url: https://www.anthroenergy.com/terms-of-use/
+- type: Support
+  url: https://www.anthroenergy.com/contact/
+- type: LLMsTxt
+  url: llms/anthro-energy-llms.txt
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
