@@ -32,6 +32,9 @@ description: Anthro Energy is a battery materials company based in Alameda, Cali
   a physical-materials company with no public API surface; this profile is maintained in the API
   Evangelist network for company and market discovery.
 url: https://raw.githubusercontent.com/api-evangelist/anthro-energy/refs/heads/main/apis.yml
+x-api-posture: no-product-api
+x-api-posture-basis: observed
+x-api-posture-note: "It is a physical-materials company with no public API surface; this profile is maintained in the API Evangelist network for company and market discovery."
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
